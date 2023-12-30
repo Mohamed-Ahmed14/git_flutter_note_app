@@ -11,10 +11,7 @@ import 'package:note_app_test/view_model/cubit/note_app_cubit/note_app_cubit.dar
 void main()
 {
 
-  // List<int> nums=[0,1,2,3,4,5];
-  // nums.removeAt(3);
-  // nums.add(10);
-  // print(nums);
+
 
   runApp(
       MultiBlocProvider(
